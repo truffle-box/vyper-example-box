@@ -6,9 +6,9 @@ Vyper with Truffle.
 
 ## Installation
 
-1. Install Truffle globally. Make sure you have v5.0.0-beta.2 or higher
+1. Install Truffle globally. Make sure you have v5.0.0 or higher.
     ```
-    npm install -g truffle@beta
+    npm install -g truffle
     ```
 
 2. Download the box. This also takes care of installing the necessary dependencies.
